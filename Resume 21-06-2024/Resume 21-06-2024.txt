@@ -2,7 +2,6 @@
 <html>
   <head>
   <title>Resume.Html</title>
-  <body>
   <style>
     h2 { border-style: solid;
       margin-top: 50px;
@@ -113,7 +112,10 @@ successful growth of an organization using my abilities and knowledge.
         border-collapse: collapse;
       }
     </style>
-  
+  <script>
+  alert("hi");
+  </script
+ </head>
 <body>
 <h3 style="color:rgb(7, 145, 7)"><b>PERSONAL DETAILS:</b></h3>
       <ul><table>
@@ -138,7 +140,6 @@ successful growth of an organization using my abilities and knowledge.
         <td>ENGLISH,TAMIL AND TELUGU</td>
       </tr>
     </table></ul>
-  </body>
 
 <h3 style="color:rgb(7, 145, 7)"><b>DECLERATION:</b></h3>
 <ul>I do here by declare that all statements started above are correct to the best of my knowledge and belief.<br></ul>
@@ -147,5 +148,4 @@ Date: 19-06-2024
 <h6 align="right">Yours Truly</h6>
 <h6 align="right">B.GOVARDHINI</h6>
 </body>
-  </head>
 </html>
