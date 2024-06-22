@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <title>Resume.Html</title>
+  <body>
+  <style>
+    h2 { border-style: solid;
+      margin-top: 50px;
+      margin-right: 5px;
+      margin-bottom: 50px;
+      margin-left: 5px;
+}
+</style>
+
+<a href="E:\Resume\index.html"> Resume </a>
+
+      <h2 style="color:rgb(46, 46, 145);text-align:center;"> RESUME</h2></div>
+      <img src="DocScanner 22 Jun 2023.jpg" style="width:80px;height:80px;" >
+      <h5>NAME: B.GOVARDHINI <br>
+      DEPT: B.E-CSE<br>
+      Mail Id: gokulvardhini@gmail.com<br>
+      Mob: 7339684466</h5>
+      <hr>
+      <h3 style="color:rgb(7, 145, 7)"><b>CARRIER OBJECTIVE:</b></h3>
+      <t>To shine as challenging and responsible position in an organization where in I contribute to the 
+successful growth of an organization using my abilities and knowledge.
+      </t>
+<h3 style="color:rgb(7, 145, 7)"><b>WORK EXPERIENCE:</b></h3>
+<ul><li>2014 -2015 worked AS a planning and documentation at <b>TEXTILE</b> organization in Tirupur</li><br>
+    <li>2015 -2017 worked AS a Technical Support AND Associate at <b>CREATIVE SOFTWARE</b> in Erode </li><br>
+    <li> 2018-2019 worked AS a HR & Documentation at <b>MIOT INTERNATIONAL- SODEXO</b> in Chennai</li><br>
+    <li> 2019-2020 worked As a SODEXO (HR&HSE) at <b>NOKIA SOLUTIONS &NETWORK</b> in Chennai</li><br>
+    <li> 2022- 2023 worked As a Industrial Engineer at <b>FLEXTRONICS</b> in Chennai.</li></ul>
+   <h3 style="color:rgb(7, 145, 7)"><b>PROFESSIONAL EXPERIENCE:</b></h3>
+   <ul><li> Designation Technical Support Executive, VB.net programmer</li><br>
+   <li>Handling software entry type, Conversion in Billing Tally</li><br> 
+<li>Performing Data check, OS install and server configuring</li><br>
+<li>Updating on all Bills and file types needed for managing software’s</li><br>
+<li>Expecting main counter estimation of invoice bills and orders followed</li><br>
+<li>Designing in Logo for bills and Coding in Visual Basic</li><br>
+<li>Calculation in GST and implementing in Bills</li><br>
+<li>Enhance in Both Technical support and VB.programming</li></ul>
+<h3 style="color:rgb(7, 145, 7)"><b>ROLES AND RESPONSIBILITIES:</b></h3>
+<ul><li>Responsible in planning parameters</li><br>
+<li>Organize meeting and conduct performance details overall Team</li><br>
+<li>Managing production output</li><br>
+<li>Awarded As Performer in involving Work Activity</li><br>
+<li>Intend in quality for client requirements</li><br>
+<li>Briefing and instructions to All members</li><br></ul>
+<h3 style="color:rgb(7, 145, 7)"><b>AREA OF EXPOSURE:</b></h3>
+<ul><li>HR Requirement And Policy Execution</li><br>
+<li>Payroll Management And General Administration</li><br>
+<li>Performance And Team Management</li><br>
+<li>Training And Development</li><br>
+<li>Overall QHSE Safety and Maintenance ,prevention, other control Measures</li><br>
+<li>Production Reports handling & Layout planning</li><br></ul>
+<h3 style="color:rgb(7, 145, 7)"><b>TECHNICAL SKILLS:</b></h3>
+<ul><table>
+<tr>
+  <td>Languages</td>
+  <td>C, C++ & HTML</td>
+</tr>
+  <tr>
+   <td>Platforms</td>
+   <td>Windows XP, Windows 10</td>
+  </tr>
+  <tr>
+    <td>Software's</td>
+    <td>Microsoft Office, MY-SQL, Microsoft Access</td>
+  </tr>
+</table></ul>
+<h3 style="color:rgb(7, 145, 7)"><b>EDUCATIONAL QUALIFICATION:</b></h3>
+
+<ul><table>
+  <th style="color:rgb(228, 10, 111)">Dept</th>
+  <th style="color:rgb(230, 10, 112)">Score %</th>
+  <th style="color:rgb(231, 12, 114)">Academy</th>
+  <th style="color:rgb(211, 9, 103)">Batch</th>
+
+<tr>
+  <td>B.E-CSE</td>
+  <td align="center">77%</td>
+  <td>Shree Venkateshwara Hi-Tech Engineering College</td>
+  <td>2014</td>
+</tr>
+<tr>
+  <td>HSC</td>
+  <td align="center">58%</td>
+  <td>Govt.Girls Higher Secondary School</td>
+  <td>2010</td>
+</tr>
+<tr>
+  <td>SSLC</td>
+  <td align="center">82%</td>
+  <td>Govt.Girls Higher Secondary School</td>
+  <td>2008</td>
+</tr>
+</table></ul>
+<h3 style="color:rgb(7, 145, 7)"><b>PROJECTS:</b></h3>
+<ul><li>PREVENTING IDS DATA PROCESSING USING NDD IN CLOUD NETWORK ENVIRONMENT</li><br>
+<li>Domain	Secure Computing</li><br>
+<li>Language	C#.Net</li><br></ul>
+<h3 style="color:rgb(7, 145, 7)"><b>EXTRA CURRICULAR ACTIVITIES:</b></h3>
+<ul><li>Involving in thinking about innovating ideas and problem solving skills</li><br>
+<li>Helped for children Trust and combined in social activities</li><br>
+<li>Eager to Learn And Know About New configuration And Specs In Technology</li><br></ul>
+
+    <style>
+      table,
+      th,
+      td {
+        border: 2px solid rgb(59, 19, 134);
+        border-collapse: collapse;
+      }
+    </style>
+  
+<body>
+<h3 style="color:rgb(7, 145, 7)"><b>PERSONAL DETAILS:</b></h3>
+      <ul><table>
+      <tr>
+        <td>FATHER’S NAME</td>
+        <td>K.BALAMURUGAN</td>
+      </tr>
+      <tr>
+        <td>GENDER </td>
+        <td>FEMALE</td>
+      </tr>
+      <tr>
+        <td>NATIONALITY</td>
+        <td>INDIAN</td>
+      </tr>
+      <tr>
+        <td>MARITAL STATUS</td>
+        <td>SINGLE</td>
+      </tr>
+      <tr>
+        <td>LANGUAGES KNOWN</td>
+        <td>ENGLISH,TAMIL AND TELUGU</td>
+      </tr>
+    </table></ul>
+  </body>
+
+<h3 style="color:rgb(7, 145, 7)"><b>DECLERATION:</b></h3>
+<ul>I do here by declare that all statements started above are correct to the best of my knowledge and belief.<br></ul>
+Place: Bhavani <br>
+Date: 19-06-2024
+<h6 align="right">Yours Truly</h6>
+<h6 align="right">B.GOVARDHINI</h6>
+</body>
+  </head>
+</html>
